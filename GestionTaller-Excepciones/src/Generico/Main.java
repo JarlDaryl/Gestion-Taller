@@ -1,14 +1,10 @@
 package Generico;
 
-
 import DATA_FRAMEWORK_EVOLUCION.v04_ALMACEN_ESTATICO.AlmacenDeDatos;
-import DATA_FRAMEWORK_EVOLUCION.v04_ALMACEN_ESTATICO.EjemploEstatico;
 import Herramientas.HerramientasCliente;
 import entidades.Cliente;
-import entidades.Vehiculo;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Optional;
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -25,17 +21,25 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        HerramientasCliente herramientasCliente = new HerramientasCliente();
 
+
+        HerramientasCliente herramientasCliente = new HerramientasCliente();
         mostrarMenuPrincipal();
 
         Scanner s = new Scanner(System.in);
         String respuesta = s.next();
-        Cliente cliente1 = null;
-        
+
+        Optional<Cliente> cliente1 = Optional.empty();
+
         if(respuesta.equals("1"))
         {
-            cliente1 = herramientasCliente.registroCliente();
+            try {
+                cliente1 = Optional.of(herramientasCliente.registroCliente());
+            }
+            catch (NumberFormatException nf)
+            {
+                System.out.println(("CACHEADA1"));
+            }
         }
 
         if(respuesta.equals("2"))
@@ -43,37 +47,10 @@ public class Main {
             System.out.println("Registro de vehiculo");
         }
 
+        Optional<Cliente> clienteDeShrodinger = cliente1;
 
+        ImpresoraDeDatos.ImprimirInfoCliente(clienteDeShrodinger);
 
-        /*
-        Vehiculo vehiculo1 = new Vehiculo();
-        vehiculo1.setMarca("Mercedes");
-        vehiculo1.setModelo("AMG");
-        vehiculo1.setColor("Negro");
-        vehiculo1.setMatricula("123121F");
-
-        Vehiculo vehiculo2 = new Vehiculo();
-        vehiculo2.setMarca("Seat");
-        vehiculo2.setModelo("Ibiza");
-        vehiculo2.setColor("Blanco");
-        vehiculo2.setMatricula("656456X");
-
-
-
-        List<Vehiculo> vehiculos = new ArrayList<Vehiculo>();
-        vehiculos.add(vehiculo1);
-        vehiculos.add(vehiculo2);
-
-        cliente1.setVehiculos(vehiculos);
-
-        // Guardamos un cliente
-        AlmacenDeDatos.getClienteRepository().save(cliente1);
-        Cliente cliente2 = AlmacenDeDatos.getClienteRepository().findById("8888x");
-
-*/
-
-        ImpresoraDeDatos.ImprimirInfoCliente(cliente1);
-        ImpresoraDeDatos.ImprimirInfoCliente(AlmacenDeDatos.getClienteRepository().findById("8888x"));
 
 
     }
