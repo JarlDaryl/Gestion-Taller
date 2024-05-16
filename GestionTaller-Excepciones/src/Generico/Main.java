@@ -51,8 +51,5 @@ public class Main {
 
         ImpresoraDeDatos.ImprimirInfoCliente(clienteDeShrodinger);
 
-
-
     }
-
 }
