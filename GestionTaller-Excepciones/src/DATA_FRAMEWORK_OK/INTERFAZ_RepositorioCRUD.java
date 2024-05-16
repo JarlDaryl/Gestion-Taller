@@ -1,12 +1,13 @@
 package DATA_FRAMEWORK_OK;
 
 import java.util.List;
+import java.util.Optional;
 
 public interface INTERFAZ_RepositorioCRUD<T> {
-    T save(T entity);
-    T findById(String id);
+    Optional<T> save(T entity);
+    Optional<T> findById(String id);
     List<T> findAll();
-    T update(T entity);
+    Optional<T> update(T entity);
     void delete(T entity);
 }
 

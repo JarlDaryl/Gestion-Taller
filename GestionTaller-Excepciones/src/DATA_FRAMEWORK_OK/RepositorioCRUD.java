@@ -1,10 +1,7 @@
 package DATA_FRAMEWORK_OK;
 
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.function.Function;
 
 /**
@@ -44,15 +41,15 @@ public class RepositorioCRUD<T, K> implements INTERFAZ_RepositorioCRUD<T> {
     }
 
     @Override
-    public T save(T entity) {
+    public Optional<T> save(T entity) {
         K id = idExtractor.apply(entity);
         entities.put(id, entity);
-        return entity;
+        return Optional.ofNullable(entity);
     }
 
     @Override
-    public T findById(String id) {
-        return entities.get(id);
+    public Optional<T> findById(String id) {
+        return Optional.ofNullable(entities.get(id));
     }
 
     @Override
@@ -61,11 +58,11 @@ public class RepositorioCRUD<T, K> implements INTERFAZ_RepositorioCRUD<T> {
     }
 
     @Override
-    public T update(T entity) {
+    public Optional<T> update(T entity) {
         K id = idExtractor.apply(entity);
         if (entities.containsKey(id)) {
             entities.put(id, entity);
-            return entity;
+            return Optional.ofNullable(entity);
         } else {
             return null; // Manejo de error si no se encuentra la entidad
         }

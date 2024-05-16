@@ -11,3 +11,7 @@ s
 CGestionTaller-Excepciones/src/DATA_FRAMEWORK_OK/AlmacenDeDatos.java,0\9\09c86c0513d0392c3ec611b6ebda827e844348fe
 t
 DGestionTaller-Excepciones/src/DATA_FRAMEWORK_OK/RepositorioCRUD.java,2\f\2f2ddd046ffed95fd605a9c415c27334b09668ce
+}
+MGestionTaller-Excepciones/src/DATA_FRAMEWORK_OK/INTERFAZ_RepositorioCRUD.java,1\9\190e0fda2e6f0d17bc943799193cece292927041
+j
+:GestionTaller-Excepciones/src/Herramientas/Navegacion.java,1\6\16f3878bd06325e5c07192ed81ce2bd8a72c182d

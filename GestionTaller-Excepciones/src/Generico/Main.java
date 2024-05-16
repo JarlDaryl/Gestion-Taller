@@ -1,14 +1,14 @@
 package Generico;
 
-import DATA_FRAMEWORK_EVOLUCION.v04_ALMACEN_ESTATICO.AlmacenDeDatos;
+import DATA_FRAMEWORK_OK.AlmacenDeDatos;
 import Herramientas.HerramientasCliente;
+import Herramientas.Navegacion;
 import entidades.Cliente;
 
 import java.util.Optional;
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
 
     public static void mostrarMenuPrincipal() {
@@ -22,12 +22,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         HerramientasCliente herramientasCliente = new HerramientasCliente();
-        mostrarMenuPrincipal();
+        Navegacion.mostrarMenuPrincipal();
+        String respuesta = Navegacion.leerRespuesta();
 
-        Scanner s = new Scanner(System.in);
-        String respuesta = s.next();
 
         Optional<Cliente> cliente1 = Optional.empty();
 
