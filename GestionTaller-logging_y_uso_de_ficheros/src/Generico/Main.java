@@ -29,8 +29,6 @@ public class Main {
 
         logger.info("STARTING APP");
 
-
-
         Cliente cliente1 = new Cliente();
         cliente1.setCodigoCliente("8888x");
         cliente1.setDni("12121211A");

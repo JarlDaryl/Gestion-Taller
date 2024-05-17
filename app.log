@@ -1,0 +1,28 @@
+2024-05-17 16:50:11 INFO Main - STARTING APP
+2024-05-17 16:50:11 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:11 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:11 FINE herramientas.Navegacion - Mostrando menu principal
+2024-05-17 16:50:11 FINE herramientas.Navegacion - leyendo respuesta
+2024-05-17 16:50:16 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:16 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:21 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:21 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:26 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:26 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:31 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:31 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:36 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:36 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:41 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:41 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:42 FINE herramientas.Navegacion - Mostrando menu cliente
+2024-05-17 16:50:42 FINE herramientas.Navegacion - leyendo respuesta
+2024-05-17 16:50:46 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:46 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:51 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:51 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:50:56 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:50:56 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:51:01 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-17 16:51:01 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-17 16:51:05 FINE java.lang.Runtime - Runtime.exit() called with status: 130
