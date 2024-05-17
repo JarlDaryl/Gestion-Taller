@@ -1,16 +1,0 @@
-
-¤
-java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "respuesta".(ÐØ½å8¹¾Ÿ‡ø1J$5fa235cd-8a1e-42e8-a201-73119e25235b
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ•¡Òþÿÿÿÿ8»¾Ÿ‡ø1J$c2bca535-f7fe-44e3-a8dc-3f4949d90c3d
-}
-java:S1118":Add a private constructor to hide the implicit public one.(Ì¼Œø8Ì¾Ÿ‡ø1J$5245d01d-01de-435d-932f-9d91b72542b7
-m	java:S106	"+Replace this use of System.out by a logger.(Ž›÷€8Ï¾Ÿ‡ø1J$8d4d5646-30e4-4b89-aa7c-641ded0d9888
-r	java:S106
-"+Replace this use of System.out by a logger.(ã³¯‡øÿÿÿÿ8Ð¾Ÿ‡ø1J$2a1cbbfc-6b60-4cc8-bf9d-ce4e30d606ba
-r	java:S106"+Replace this use of System.out by a logger.(­Àšÿþÿÿÿÿ8Ò¾Ÿ‡ø1J$78a99e3c-5e7c-4e0c-8e24-cdd55bf4d4da
-m	java:S106"+Replace this use of System.out by a logger.(Ž›÷€8Õ¾Ÿ‡ø1J$aa167e59-2626-474b-93b4-1264aa7f8f71
-m	java:S106"+Replace this use of System.out by a logger.(þÚ È8×¾Ÿ‡ø1J$44410473-2bf9-4d6e-a2f0-4ec17c525e23
-l	java:S106"+Replace this use of System.out by a logger.(À®å8Ø¾Ÿ‡ø1J$da8a415c-837f-4885-9463-577df7e54fe3
-l	java:S106"+Replace this use of System.out by a logger.(îù¸\8Ù¾Ÿ‡ø1J$7c9de7c3-5c66-42ba-8666-8594b7a9800b
-r	java:S106"+Replace this use of System.out by a logger.(Òìšãüÿÿÿÿ8Û¾Ÿ‡ø1J$8aa8a449-b7ae-4732-8466-14bc645c5d60
-l	java:S106"+Replace this use of System.out by a logger.(›øì{8Ü¾Ÿ‡ø1J$788f12b7-46be-4cf6-aaf1-8654d5072404
