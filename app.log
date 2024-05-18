@@ -26,3 +26,15 @@
 2024-05-17 16:51:01 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
 2024-05-17 16:51:01 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
 2024-05-17 16:51:05 FINE java.lang.Runtime - Runtime.exit() called with status: 130
+2024-05-18 16:46:33 INFO Main - STARTING APP
+2024-05-18 16:46:33 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-18 16:46:33 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-18 16:46:33 FINE herramientas.Navegacion - Mostrando menu principal
+2024-05-18 16:46:33 FINE herramientas.Navegacion - leyendo respuesta
+2024-05-18 16:46:38 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-18 16:46:38 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-18 16:46:40 FINE herramientas.Navegacion - Mostrando menu vehiculo
+2024-05-18 16:46:40 FINE herramientas.Navegacion - leyendo respuesta
+2024-05-18 16:46:43 SEVERE LectorDeArchivos - Error al listar archivos en el directorio: files
+2024-05-18 16:46:43 INFO LectorDeArchivos - No se encontraron archivos en el directorio: files
+2024-05-18 16:46:47 FINE java.lang.Runtime - Runtime.exit() called with status: 130

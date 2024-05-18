@@ -1,5 +1,7 @@
 package entidades;
 
+import java.util.List;
+
 /**
  * Esta clase representa una Pieza. Contiene información sobre una pieza de repuesto utilizada en el mantenimiento o reparación de vehículos.
  */
@@ -16,7 +18,7 @@ public class Pieza {
     /**
      * La descripción de la pieza.
      */
-    String descripción;
+    String descripcion;
     /**
      * Indica si la pieza tiene garantía del fabricante.
      */
@@ -44,7 +46,7 @@ public class Pieza {
     public Pieza(String codigoDePieza, String marca, String descripción, boolean garantiaFabricante, boolean garantiaMontaje) {
         this.codigoDePieza = codigoDePieza;
         this.marca = marca;
-        this.descripción = descripción;
+        this.descripcion = descripción;
         this.garantiaFabricante = garantiaFabricante;
         this.garantiaMontaje = garantiaMontaje;
     }
@@ -91,7 +93,7 @@ public class Pieza {
      * @return La descripción de la pieza.
      */
     public String getDescripción() {
-        return descripción;
+        return descripcion;
     }
 
     /**
@@ -100,7 +102,7 @@ public class Pieza {
      * @param descripción La descripción de la pieza.
      */
     public void setDescripción(String descripción) {
-        this.descripción = descripción;
+        this.descripcion = descripción;
     }
 
     /**
@@ -138,4 +140,9 @@ public class Pieza {
     public void setGarantiaMontaje(boolean garantiaMontaje) {
         this.garantiaMontaje = garantiaMontaje;
     }
+
+    public void setVehiculos(List<Vehiculo> vehiculoList) {this.codigoDePieza = codigoDePieza;
+    }
+
+    public String getCodigoPieza() { return codigoDePieza;}
 }

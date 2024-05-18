@@ -1,6 +1,11 @@
 
-k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒñ«úÿÿÿÿ
-e	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªöüz
-q	java:S116"WRename this field "descripciÃ³n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æê“Ñÿÿÿÿÿ
-c	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¹ç
-b	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªöüz
+˜	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒñ«úÿÿÿÿ8ŞÃßø1J$abdfad30-627c-44d8-8e9a-dd43bcf9012d
+’	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªöüz8ŞÃßø1J$fe736a57-ec5e-4042-acc4-f09fa17ea952
+´
+java:S4165"kRemove this useless assignment; "codigoDePieza" already holds the assigned value along all execution paths.(²åú«ıÿÿÿÿ8ë»Äßø1J$792e849d-d6ee-49a4-91c1-faf3b9f3c525
+	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¹ç8—ŞÃßø1J$f1905154-de9d-4264-bace-af8bbf92fef2
+	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªöüz8—ŞÃßø1J$ede2be8b-2963-4b49-8c1c-351435f8cd3b
+|
+java:S1172"3Remove this unused method parameter "vehiculoList".(²åú«ıÿÿÿÿ8›ŞÃßø1J$718aa849-9f99-49ed-bb8b-d9994e090253
+x
+java:S1656"/Remove or correct this useless self-assignment.(²åú«ıÿÿÿÿ8ö»Äßø1J$a55e6aca-743e-4e9d-b21e-d07755ad72af

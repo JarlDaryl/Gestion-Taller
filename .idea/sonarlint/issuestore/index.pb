@@ -15,3 +15,11 @@ BGestionTaller-logging_y_uso_de_ficheros/src/entidades/Cliente.java,a\c\ac49b6a
 OGestionTaller-logging_y_uso_de_ficheros/src/herramientas/HerramientasPieza.java,2\c\2cc9fd2f766578da1ef0ab1b8d02c0a58b082d40
 ƒ
 SGestionTaller-logging_y_uso_de_ficheros/src/herramientas/HerramientasProveedor.java,3\8\38c1e4ea0e20f95c7f9e29435bce1e6b77710ec6
+ˆ
+XGestionTaller-logging_y_uso_de_ficheros/src/data_framework/INTERFAZ_RepositorioCRUD.java,9\e\9e1122372742d4fbde08412ed98ee1e4579001f1
+~
+NGestionTaller-logging_y_uso_de_ficheros/src/data_framework/AlmacenDeDatos.java,4\f\4f50a7594a219af07161bd22cf0c9654ea32afb4
+
+OGestionTaller-logging_y_uso_de_ficheros/src/data_framework/RepositorioCRUD.java,c\0\c0f04a78ef56009a295acb69c06d028cd5c4c3f6
+|
+LGestionTaller-logging_y_uso_de_ficheros/src/fileReader/LectorDeArchivos.java,c\b\cbe71658eb2bc8f551dbcbecd658df7ce6a7b123

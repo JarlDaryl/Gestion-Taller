@@ -2,6 +2,7 @@ package data_framework;
 
 import entidades.Cliente;
 import entidades.Vehiculo;
+import entidades.Pieza;
 
 /***
  * <p>
@@ -36,6 +37,7 @@ public class AlmacenDeDatos {
 
     private static final RepositorioCRUD<Cliente, String> clienteRepository  = new RepositorioCRUD<>(Cliente::getCodigoCliente);
 
+    private static final RepositorioCRUD<Pieza, String> piezaRepository  = new RepositorioCRUD<>(Pieza::getCodigoPieza);
 
 
     /**
@@ -53,4 +55,5 @@ public class AlmacenDeDatos {
     }
 
 
+    public static RepositorioCRUD<Pieza, String> getPiezaRepository() {return piezaRepository; }
 }

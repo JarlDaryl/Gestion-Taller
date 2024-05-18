@@ -85,4 +85,7 @@ public class RepositorioCRUD<T, K> implements INTERFAZ_RepositorioCRUD<T> {
         K id = idExtractor.apply(entity);
         entities.remove(id);
     }
+
+    public Optional<T> findBycodigoDePieza(String codigoDePieza) {return Optional.ofNullable(entities.get(codigoDePieza));
+    }
 }
