@@ -1,12 +1,24 @@
 
+œ
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(„¹Ù8¶ã½áø1J$4541ef9d-19dd-4e1c-b799-5857eb4b03a2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å õ›ıÿÿÿÿ8¹ã½áø1J$0ede6e69-a870-4b52-8c24-5d184fa9a512
 •
-java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(„¹ÙJ$c7daf499-0a52-47fc-8833-1e13fc17703c
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å õ›ıÿÿÿÿJ$cf9a617b-f0fe-426d-a7e9-e73f588623f8
-]	java:S131;""Add a default case to this switch.(ü€ÑJ$7ebeee32-70e2-4155-96c5-a9ff040c8e5a
-k	java:S106B"+Replace this use of System.out by a logger.(êÜõ‚ùÿÿÿÿJ$2e8c82b8-85e3-4084-ba9f-731804f31eeb
-f	java:S106C"+Replace this use of System.out by a logger.(€şÃ¹J$d25ce1d6-d9c6-46e6-abbc-90ee1dd7d2fd
-k	java:S106D"+Replace this use of System.out by a logger.(œˆçÿÿÿÿÿJ$3986da73-b264-4deb-bc45-a6b56ee483f9
-k	java:S106E"+Replace this use of System.out by a logger.(¨ğ˜øÿÿÿÿJ$906e3443-848d-4200-83dc-487d1e3c92dd
-k	java:S106F"+Replace this use of System.out by a logger.(Çİ¬ÛûÿÿÿÿJ$b37afcd8-78b4-43b4-b6d0-76d349b2b192
-f	java:S106G"+Replace this use of System.out by a logger.(¡óƒ¹J$ff462d34-c0b7-44b0-add5-ed9420c01bad
-k	java:S106I"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿJ$395c3874-f64c-4293-a059-e3ed31937713
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8”íÊáø1J$575137d1-b8d1-468e-897d-8aebdf257d5b
+d	java:S131>""Add a default case to this switch.(ü€Ñ8£å½áø1J$21599d59-6b9e-4482-aebe-a227cafe3193
+r	java:S106E"+Replace this use of System.out by a logger.(êÜõ‚ùÿÿÿÿ8¤å½áø1J$ca16c3ab-dc74-4ed6-8a32-7107dadeb76b
+m	java:S106F"+Replace this use of System.out by a logger.(€şÃ¹8¥å½áø1J$6b850617-b19a-4c49-9b03-88f40669d969
+r	java:S106G"+Replace this use of System.out by a logger.(œˆçÿÿÿÿÿ8¥å½áø1J$0084e6d4-03de-42f8-8260-643c3726f7a2
+r	java:S106H"+Replace this use of System.out by a logger.(¨ğ˜øÿÿÿÿ8¥å½áø1J$5d8816fb-b5c8-4292-8f14-d09ad84f7d65
+r	java:S106I"+Replace this use of System.out by a logger.(Çİ¬Ûûÿÿÿÿ8¦å½áø1J$2eae0899-485a-4847-88d8-d02f40217664
+m	java:S106J"+Replace this use of System.out by a logger.(¡óƒ¹8¦å½áø1J$09a4b9d4-cfa9-4721-b4d5-bc639fe1350a
+r	java:S106L"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿ8¦å½áø1J$18a9f3f8-3f5b-4c9a-9939-5c90c37f10e6
+d	java:S131q""Add a default case to this switch.( Ùˆ8 íÊáø1J$b7799041-5c0a-4d82-b4bd-56d97a59cbb9
+m	java:S106x"+Replace this use of System.out by a logger.(•½…8¡íÊáø1J$a4e20ae3-651e-4146-8168-3dcc4bec9a3c
+r	java:S106y"+Replace this use of System.out by a logger.(Š‰–ıÿÿÿÿ8¡íÊáø1J$e0e82d36-b6e5-4ec9-bab6-38e5ebaf3d35
+m	java:S106z"+Replace this use of System.out by a logger.(ÈÛµŸ8¡íÊáø1J$bc7be380-0154-458a-84ea-4b25085b6da5
+r	java:S106{"+Replace this use of System.out by a logger.(Ñ­äÕÿÿÿÿÿ8¡íÊáø1J$26a76f09-2748-4029-91f0-23b4f3bd9183
+m	java:S106|"+Replace this use of System.out by a logger.(¾Ïµ¬8¢íÊáø1J$cb5420ad-85ce-4e57-b851-fac18e9d8f36
+r	java:S106}"+Replace this use of System.out by a logger.(¥ÏÍÔıÿÿÿÿ8¢íÊáø1J$34453d0b-743d-456a-8a81-76244cf55337
+r	java:S106"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿ8¢íÊáø1J$a7f4fb97-15ad-4abf-b196-29e553496aa8
+Š
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 112 to 64, Complexity from 20 to 14, Nesting Level from 4 to 2, Number of Variables from 11 to 6.(Çµí‘8¤íÊáø1J$ce099322-b4f0-4144-ad8d-a8a44ac68352

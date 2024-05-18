@@ -23,3 +23,11 @@ NGestionTaller-logging_y_uso_de_ficheros/src/data_framework/AlmacenDeDatos.java
 OGestionTaller-logging_y_uso_de_ficheros/src/data_framework/RepositorioCRUD.java,c\0\c0f04a78ef56009a295acb69c06d028cd5c4c3f6
 |
 LGestionTaller-logging_y_uso_de_ficheros/src/fileReader/LectorDeArchivos.java,c\b\cbe71658eb2bc8f551dbcbecd658df7ce6a7b123
+t
+DGestionTaller-logging_y_uso_de_ficheros/src/appconfig/AppConfig.java,f\9\f9d6d52021d92c29942a3c30c8c0420d9db1c8ee
+x
+HGestionTaller-logging_y_uso_de_ficheros/src/herramientas/Navegacion.java,b\6\b659d886ba719fc988c9df3c01c2f8728a3a62f9
+u
+EGestionTaller-logging_y_uso_de_ficheros/src/logging/LoggerConfig.java,f\6\f63a3684665e042577d24bef181fa617f4c0374d
+u
+EGestionTaller-logging_y_uso_de_ficheros/src/logging/LogFormatter.java,8\f\8f39acf0ad47cfb3acaeb7588efcf71177c7217b

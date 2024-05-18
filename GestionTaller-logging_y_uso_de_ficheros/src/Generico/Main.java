@@ -7,6 +7,8 @@ import herramientas.Navegacion;
 import entidades.Cliente;
 import entidades.Vehiculo;
 import logging.LoggerConfig;
+import entidades.Pieza;
+import herramientas.HerramientasPieza;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -34,6 +36,7 @@ public class Main {
         cliente1.setDni("12121211A");
         cliente1.setDireccion("Moncloa");
         cliente1.setNombre("Pedro");
+
         Vehiculo vehiculo1 = new Vehiculo();
         vehiculo1.setMarca("FORD");
         vehiculo1.setModelo("FOCUS");
@@ -91,6 +94,54 @@ public class Main {
             }
         }
         if (respuesta.equalsIgnoreCase("x"))
+        {
+            System.exit(0);
+        }
+
+
+        //Herramientas pieza
+        HerramientasPieza herramientasPieza = new HerramientasPieza();
+        String respuestaPieza ="";
+        while (!respuestaPieza.equalsIgnoreCase("x"))
+        {
+            Navegacion.mostrarMenuPrincipal();
+            respuestaPieza = Navegacion.leerRespuesta();
+            if(respuestaPieza.equalsIgnoreCase("1"))
+            {
+                Navegacion.mostrarMenuPieza();
+                respuestaPieza = Navegacion.leerRespuesta();
+                switch (respuestaPieza){
+                    case "1":
+                        herramientasPieza.registroPieza();
+                        break;
+                    case "2":
+                        Optional<Pieza> clienteDevuelto = herramientasPieza.modificarPieza();
+                        if (clienteDevuelto.isPresent()) {
+                            System.out.println("Pieza modificada:");
+                            System.out.println("Código: " + clienteDevuelto.get().getCodigoPieza());
+                            System.out.println("Marca: " + clienteDevuelto.get().getMarca());
+                            System.out.println("Descripción: " + clienteDevuelto.get().getDescripción());
+                            System.out.println("Garantia fabricante: " + clienteDevuelto.get().isGarantiaFabricante());
+                            System.out.println("Garantia montaje: " + clienteDevuelto.get().isGarantiaMontaje());
+                        } else {
+                            System.out.println("El cliente con el id introducido no existe");
+                        }
+                        break;
+                    case  "3":
+                        herramientasPieza.eliminarPieza();
+                        break;
+                    case  "4":
+                        herramientasPieza.muestraInfoPieza();
+                        break;
+                }
+            }
+            else if (respuestaPieza.equalsIgnoreCase("2"))
+            {
+                Navegacion.mostrarMenuVehiculo();
+                respuestaPieza = Navegacion.leerRespuesta();
+            }
+        }
+        if (respuestaPieza.equalsIgnoreCase("x"))
         {
             System.exit(0);
         }

@@ -20,6 +20,8 @@ public class Navegacion {
         System.out.println("Escoge una opcion: ");
         System.out.println("1-. Gestión de Clientes");
         System.out.println("2-. Gestión de vehículos");
+        System.out.println("3-. Gestión de piezas");
+
         System.out.println("x-. Salir");
 
     }
@@ -46,6 +48,16 @@ public class Navegacion {
         System.out.println("3-. Eliminar Vehiculo");
         System.out.println("4-. Búsqueda de Vehiculo");
         System.out.println("5-. Listar Vehiculos");
+    }
+
+    public static void mostrarMenuPieza() {
+        logger.fine("Mostrando menu pieza");
+
+        System.out.println("Escoge una opcion: ");
+        System.out.println("1-. Alta de Pieza");
+        System.out.println("2-. Modificacion de pieza");
+        System.out.println("3-. Eliminar pieza");
+        System.out.println("4-. Búsqueda info de pieza");
     }
 
     public static String leerRespuesta() {

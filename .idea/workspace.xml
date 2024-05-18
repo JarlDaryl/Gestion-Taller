@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a8b50a6-c615-455f-893d-a53355f08a19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2cc9fd2f766578da1ef0ab1b8d02c0a58b082d40" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2cc9fd2f766578da1ef0ab1b8d02c0a58b082d40" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38c1e4ea0e20f95c7f9e29435bce1e6b77710ec6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38c1e4ea0e20f95c7f9e29435bce1e6b77710ec6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7bea5522dc568ed5893f555cc2375377be6bd351" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7bea5522dc568ed5893f555cc2375377be6bd351" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac49b6a8869894b63146b20ba03c2d79736cff55" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac49b6a8869894b63146b20ba03c2d79736cff55" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ab111ee39c7c6a6613b245aedfddb1e50b57215" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ab111ee39c7c6a6613b245aedfddb1e50b57215" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/AlmacenDeDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/AlmacenDeDatos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/RepositorioCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/RepositorioCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/entidades/Pieza.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/entidades/Pieza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/herramientas/HerramientasPieza.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/herramientas/HerramientasPieza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/Generico/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/Generico/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/herramientas/Navegacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/herramientas/Navegacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
