@@ -1182,3 +1182,11 @@
 2024-05-20 11:01:12 FINE herramientas.Navegacion - Mostrando menu principal
 2024-05-20 11:01:12 FINE herramientas.Navegacion - leyendo respuesta
 2024-05-20 11:01:52 FINE java.lang.Runtime - Runtime.exit() called with status: 130
+2024-05-20 16:49:42 INFO Main - STARTING APP
+2024-05-20 16:49:42 INFO herramientas.Navegacion - Mostrando menu principal
+2024-05-20 16:49:51 FINE herramientas.Navegacion - Mostrando menu pieza
+2024-05-20 16:49:54 FINE java.lang.Runtime - Runtime.exit() called with status: 0
+2024-05-20 16:49:58 INFO Main - STARTING APP
+2024-05-20 16:49:58 INFO herramientas.Navegacion - Mostrando menu principal
+2024-05-20 16:50:01 FINE herramientas.Navegacion - Mostrando menu Albaran
+2024-05-20 16:50:05 FINE java.lang.Runtime - Runtime.exit() called with status: 130

@@ -1,26 +1,30 @@
 
-’
-java:S1192^"VDefine a constant instead of duplicating this literal "Usuario no encontrado" 3 times.(Þ¾¢ÿJ$8e02b4e7-9e78-4e89-a16d-279f1964f70d
-k	java:S106"+Replace this use of System.out by a logger.(µÐ›ÿÿÿÿÿÿJ$e78a0a99-a853-4d83-98f0-67bff1e0b608
-w	java:S125"<This block of commented-out lines of code should be removed.(·©â³J$6b0d61e1-3e3c-41f2-85a3-c05a99355d54
-f	java:S106"+Replace this use of System.out by a logger.(žËÖ˜J$04e96e54-eb44-4b51-96ed-4fa38c1431c2
-f	java:S106'"+Replace this use of System.out by a logger.(öØ¬™J$92661325-6f67-4ccd-b0cc-1a5adfde97cf
-f	java:S1066"+Replace this use of System.out by a logger.(ÛöéJ$bfe54e8f-a79a-407a-bf6f-1a2c7b530734
-f	java:S1067"+Replace this use of System.out by a logger.(ÁŒµ—J$41dd8dc3-ad29-4344-9434-c3212517bab9
-k	java:S1068"+Replace this use of System.out by a logger.(Àò›°ùÿÿÿÿJ$84c22d63-c6d2-41dd-bc0c-54e4deb824b5
-f	java:S1069"+Replace this use of System.out by a logger.(÷¨ãœJ$8e3804df-8ea0-4839-90ed-b487e7fb2f4e
-k	java:S106="+Replace this use of System.out by a logger.(¥øöÌþÿÿÿÿJ$6b51da63-52a3-42cc-819e-3c134dc8d88e
-k	java:S106?"+Replace this use of System.out by a logger.(Î¯¾ûÿÿÿÿJ$bf02e34e-5453-437f-95a0-721366473b98
-e	java:S106A"+Replace this use of System.out by a logger.(™ê*J$5edb527b-ee53-4e78-90e8-81262eebe10b
-f	java:S106\"+Replace this use of System.out by a logger.(ã¥ÚJ$dd6a9dea-d244-4c31-8e55-b3cddfd0753f
-f	java:S106^"+Replace this use of System.out by a logger.(Þ¾¢ÿJ$f1f6623f-a18d-4fbe-b59a-815401cc446b
-k	java:S106d"+Replace this use of System.out by a logger.(É¯ß‡ÿÿÿÿÿJ$6a7fdc86-33d4-4228-bafd-5e3e29ba3955
-f	java:S106j"+Replace this use of System.out by a logger.(ÁŒµ—J$d581c814-15ef-4f66-92c9-0cf812b67ed1
-f	java:S106k"+Replace this use of System.out by a logger.(ÛüäðJ$3b5de007-8404-4f6b-b3de-b3170872624e
-f	java:S106l"+Replace this use of System.out by a logger.(÷¨ãœJ$f999cafb-3262-4cbc-8ba7-8cd494e9e000
-f	java:S106o"+Replace this use of System.out by a logger.(Þ¾¢ÿJ$d23c9dbe-9246-4d63-aaa1-90edc259e6b7
-k	java:S106v"+Replace this use of System.out by a logger.(Ñ»°üÿÿÿÿJ$221ce9e7-0802-4860-80b2-fafa1f0c0c92
-k	java:S106w"+Replace this use of System.out by a logger.(ÊÂýýþÿÿÿÿJ$99662c3e-24ab-4eae-a91a-40d10148bac2
-k	java:S106x"+Replace this use of System.out by a logger.(—øûíþÿÿÿÿJ$d18a0584-26d2-4ee3-9b1e-8da6c6d15a48
-k	java:S106"+Replace this use of System.out by a logger.(ð‡‰ÿÿÿÿÿÿJ$cec6426a-f63e-405a-99e4-1173f9d3f7fe
-g	java:S106…"+Replace this use of System.out by a logger.(Þ¾¢ÿJ$c84d2477-7b87-4ecc-919e-d10c09aa1643
+s
+java:S1192^"VDefine a constant instead of duplicating this literal "Usuario no encontrado" 3 times.(Þ¾¢ÿ8÷éë³ù1
+L	java:S106"+Replace this use of System.out by a logger.(µÐ›ÿÿÿÿÿÿ8ˆêë³ù1
+X	java:S125"<This block of commented-out lines of code should be removed.(·©â³8‰êë³ù1
+G	java:S106"+Replace this use of System.out by a logger.(žËÖ˜8Šêë³ù1
+G	java:S106'"+Replace this use of System.out by a logger.(öØ¬™8Šêë³ù1
+G	java:S1066"+Replace this use of System.out by a logger.(Ûöé8Œêë³ù1
+G	java:S1067"+Replace this use of System.out by a logger.(ÁŒµ—8Œêë³ù1
+L	java:S1068"+Replace this use of System.out by a logger.(Àò›°ùÿÿÿÿ8Œêë³ù1
+G	java:S1069"+Replace this use of System.out by a logger.(÷¨ãœ8êë³ù1
+L	java:S106="+Replace this use of System.out by a logger.(¥øöÌþÿÿÿÿ8êë³ù1
+L	java:S106?"+Replace this use of System.out by a logger.(Î¯¾ûÿÿÿÿ8êë³ù1
+F	java:S106A"+Replace this use of System.out by a logger.(™ê*8Žêë³ù1
+G	java:S106\"+Replace this use of System.out by a logger.(ã¥Ú8êë³ù1
+G	java:S106^"+Replace this use of System.out by a logger.(Þ¾¢ÿ8êë³ù1
+L	java:S106d"+Replace this use of System.out by a logger.(É¯ß‡ÿÿÿÿÿ8‘êë³ù1
+G	java:S106j"+Replace this use of System.out by a logger.(ÁŒµ—8’êë³ù1
+G	java:S106k"+Replace this use of System.out by a logger.(Ûüäð8’êë³ù1
+G	java:S106l"+Replace this use of System.out by a logger.(÷¨ãœ8’êë³ù1
+G	java:S106o"+Replace this use of System.out by a logger.(Þ¾¢ÿ8“êë³ù1
+L	java:S106v"+Replace this use of System.out by a logger.(Ñ»°üÿÿÿÿ8“êë³ù1
+L	java:S106w"+Replace this use of System.out by a logger.(ÊÂýýþÿÿÿÿ8”êë³ù1
+L	java:S106x"+Replace this use of System.out by a logger.(—øûíþÿÿÿÿ8”êë³ù1
+L	java:S106"+Replace this use of System.out by a logger.(ð‡‰ÿÿÿÿÿÿ8”êë³ù1
+H	java:S106…"+Replace this use of System.out by a logger.(Þ¾¢ÿ8•êë³ù1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8–êë³ù1
+f
+java:S1128"DRemove this unused import 'java.time.format.DateTimeParseException'.(¨Ä‚Éûÿÿÿÿ8–êë³ù1

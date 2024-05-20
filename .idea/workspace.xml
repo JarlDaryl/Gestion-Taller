@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a8b50a6-c615-455f-893d-a53355f08a19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ab111ee39c7c6a6613b245aedfddb1e50b57215" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ab111ee39c7c6a6613b245aedfddb1e50b57215" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f50a7594a219af07161bd22cf0c9654ea32afb4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f50a7594a219af07161bd22cf0c9654ea32afb4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b659d886ba719fc988c9df3c01c2f8728a3a62f9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b659d886ba719fc988c9df3c01c2f8728a3a62f9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/Generico/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/Generico/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/AlmacenDeDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/AlmacenDeDatos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/RepositorioCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/data_framework/RepositorioCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/herramientas/Navegacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/GestionTaller-logging_y_uso_de_ficheros/src/herramientas/Navegacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9219767f9010b00c6fffc5b09ee2a2a6e8b326f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9219767f9010b00c6fffc5b09ee2a2a6e8b326f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
