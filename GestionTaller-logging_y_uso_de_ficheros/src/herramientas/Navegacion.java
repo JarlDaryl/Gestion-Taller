@@ -58,6 +58,8 @@ public class Navegacion {
         System.out.println("2-. Modificacion de pieza");
         System.out.println("3-. Eliminar pieza");
         System.out.println("4-. Búsqueda info de pieza");
+        System.out.println("5-. Listar piezas");
+
     }
 
     public static String leerRespuesta() {

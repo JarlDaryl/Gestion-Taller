@@ -26,7 +26,7 @@ public class Main {
         String directoryPath = "files";
 
         // Iniciar el hilo FileReader
-        LectorDeArchivos.iniciarHiloLectorDeArchivos(directoryPath);
+       // LectorDeArchivos.iniciarHiloLectorDeArchivos(directoryPath);
 
 
         logger.info("STARTING APP");
@@ -50,6 +50,7 @@ public class Main {
         AlmacenDeDatos.getClienteRepository().save(cliente1);
 
         HerramientasCliente herramientasCliente = new HerramientasCliente();
+        HerramientasPieza herramientasPieza = new HerramientasPieza();
         String respuesta="";
         while (!respuesta.equalsIgnoreCase("x"))
         {
@@ -92,39 +93,24 @@ public class Main {
                 Navegacion.mostrarMenuVehiculo();
                 respuesta = Navegacion.leerRespuesta();
             }
-        }
-        if (respuesta.equalsIgnoreCase("x"))
-        {
-            System.exit(0);
-        }
-
-
-        //Herramientas pieza
-        HerramientasPieza herramientasPieza = new HerramientasPieza();
-        String respuestaPieza ="";
-        while (!respuestaPieza.equalsIgnoreCase("x"))
-        {
-            Navegacion.mostrarMenuPrincipal();
-            respuestaPieza = Navegacion.leerRespuesta();
-            if(respuestaPieza.equalsIgnoreCase("1"))
-            {
+            else if (respuesta.equalsIgnoreCase("3")) {
                 Navegacion.mostrarMenuPieza();
-                respuestaPieza = Navegacion.leerRespuesta();
-                switch (respuestaPieza){
+                respuesta = Navegacion.leerRespuesta();
+                switch (respuesta){
                     case "1":
                         herramientasPieza.registroPieza();
                         break;
                     case "2":
-                        Optional<Pieza> clienteDevuelto = herramientasPieza.modificarPieza();
-                        if (clienteDevuelto.isPresent()) {
+                        Optional<Pieza> PiezaDevuelta = herramientasPieza.modificarPieza();
+                        if (PiezaDevuelta.isPresent()) {
                             System.out.println("Pieza modificada:");
-                            System.out.println("Código: " + clienteDevuelto.get().getCodigoPieza());
-                            System.out.println("Marca: " + clienteDevuelto.get().getMarca());
-                            System.out.println("Descripción: " + clienteDevuelto.get().getDescripción());
-                            System.out.println("Garantia fabricante: " + clienteDevuelto.get().isGarantiaFabricante());
-                            System.out.println("Garantia montaje: " + clienteDevuelto.get().isGarantiaMontaje());
+                            System.out.println("Código: " + PiezaDevuelta.get().getCodigoPieza());
+                            System.out.println("Marca: " + PiezaDevuelta.get().getMarca());
+                            System.out.println("Descripción: " + PiezaDevuelta.get().getDescripción());
+                            System.out.println("Garantia fabricante: " + PiezaDevuelta.get().isGarantiaFabricante());
+                            System.out.println("Garantia montaje: " + PiezaDevuelta.get().isGarantiaMontaje());
                         } else {
-                            System.out.println("El cliente con el id introducido no existe");
+                            System.out.println("La pieza con el código introducido no existe");
                         }
                         break;
                     case  "3":
@@ -133,18 +119,17 @@ public class Main {
                     case  "4":
                         herramientasPieza.muestraInfoPieza();
                         break;
+                    case "5":
+                        herramientasPieza.listarPiezas();
+                        break;
+                    }
                 }
             }
-            else if (respuestaPieza.equalsIgnoreCase("2"))
-            {
-                Navegacion.mostrarMenuVehiculo();
-                respuestaPieza = Navegacion.leerRespuesta();
-            }
-        }
-        if (respuestaPieza.equalsIgnoreCase("x"))
+        if (respuesta.equalsIgnoreCase("x"))
         {
             System.exit(0);
         }
+
     }
 }
 

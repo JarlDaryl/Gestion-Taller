@@ -28,15 +28,17 @@ public class HerramientasPieza {
 
         System.out.print("Dime la descripcion de la pieza");
         respuesta = s.next();
-        pieza1.setMarca(respuesta);
+        pieza1.setDescripción(respuesta);
 
         System.out.print("Dime la garantiaFabricante de la pieza");
         respuesta = s.next();
-        pieza1.setMarca(respuesta);
+        pieza1.setGarantiaFabricante(Boolean.valueOf(respuesta));
 
         System.out.print("Dime la garantiaMontaje de la pieza");
         respuesta = s.next();
-        pieza1.setMarca(respuesta);
+        pieza1.setGarantiaMontaje(Boolean.valueOf(respuesta));
+
+        AlmacenDeDatos.getPiezaRepository().save(pieza1);
 
         return pieza1;
     }
@@ -80,7 +82,11 @@ public class HerramientasPieza {
             if(garantaiMontaje = true) {
                 pieza.get().setGarantiaMontaje(garantaiMontaje);
             }
+
+            AlmacenDeDatos.getPiezaRepository().update(pieza.get());
+
             return pieza;
+
         } else {
             return Optional.empty();
         }
@@ -107,6 +113,11 @@ public class HerramientasPieza {
         } else {
             System.out.println("Pieza no encontrada");
         }
+    }
+
+    public void listarPiezas() {
+        List<Pieza> listaPiezas = AlmacenDeDatos.getPiezaRepository().findAll();
+        System.out.println(listaPiezas);
     }
 
     private Optional<Pieza> findPieza() {

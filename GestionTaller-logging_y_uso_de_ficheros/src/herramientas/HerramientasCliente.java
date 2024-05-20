@@ -46,6 +46,8 @@ public class HerramientasCliente {
         respuesta = s.next();
         cliente1.setEdad(Integer.valueOf(respuesta));
 
+        AlmacenDeDatos.getClienteRepository().save(cliente1);
+
         return cliente1;
     }
 
@@ -91,6 +93,7 @@ public class HerramientasCliente {
             if(nuevaEdad > 0 && nuevaEdad <= 100) {
                 cliente.get().setEdad(nuevaEdad);
             }
+            AlmacenDeDatos.getClienteRepository().update(cliente.get());
             return cliente;
         } else {
             return Optional.empty();

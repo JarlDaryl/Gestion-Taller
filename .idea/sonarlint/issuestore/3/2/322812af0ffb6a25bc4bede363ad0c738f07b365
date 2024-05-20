@@ -1,29 +1,29 @@
 
-q
-java:S1192j"VDefine a constant instead of duplicating this literal "Cliente no encontrado" 3 times.(ğ³œ»øÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Û»Ë€øÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(·©â³
-E	java:S106"+Replace this use of System.out by a logger.(ËªÃªıÿÿÿÿ
-@	java:S106%"+Replace this use of System.out by a logger.(ŠÃ´»
-@	java:S106)"+Replace this use of System.out by a logger.(ìÓ¢ª
-@	java:S106-"+Replace this use of System.out by a logger.(Ğğİó
-E	java:S106;"+Replace this use of System.out by a logger.(–›—Ÿøÿÿÿÿ
-E	java:S106<"+Replace this use of System.out by a logger.(î˜Ÿ‚úÿÿÿÿ
-E	java:S106="+Replace this use of System.out by a logger.(›ÇšÅûÿÿÿÿ
-E	java:S106>"+Replace this use of System.out by a logger.(‚üïŠÿÿÿÿÿ
-@	java:S106?"+Replace this use of System.out by a logger.(Æ«Şú
-E	java:S106@"+Replace this use of System.out by a logger.(¡µÅáÿÿÿÿÿ
-@	java:S106C"+Replace this use of System.out by a logger.(ïÔ×
-E	java:S106E"+Replace this use of System.out by a logger.(ÅÑÀõÿÿÿÿÿ
-@	java:S106G"+Replace this use of System.out by a logger.(Ã“¸Ë
-@	java:S106I"+Replace this use of System.out by a logger.(§éŠ
-E	java:S106K"+Replace this use of System.out by a logger.(ÏÎÀËüÿÿÿÿ
-E	java:S106h"+Replace this use of System.out by a logger.(½Œ¹áúÿÿÿÿ
-E	java:S106j"+Replace this use of System.out by a logger.(ğ³œ»øÿÿÿÿ
-E	java:S106p"+Replace this use of System.out by a logger.(Û»Ë€øÿÿÿÿ
-@	java:S106v"+Replace this use of System.out by a logger.(ı„¨˜
-E	java:S106w"+Replace this use of System.out by a logger.(½’ğâùÿÿÿÿ
-E	java:S106z"+Replace this use of System.out by a logger.(ğ³œ»øÿÿÿÿ
-F	java:S106€"+Replace this use of System.out by a logger.(š¦ğ˜ùÿÿÿÿ
-A	java:S106†"+Replace this use of System.out by a logger.(æ¯
-F	java:S106Œ"+Replace this use of System.out by a logger.(ğ³œ»øÿÿÿÿ
+—
+java:S1192m"VDefine a constant instead of duplicating this literal "Cliente no encontrado" 3 times.(ğ³œ»øÿÿÿÿJ$f62139dc-384d-4afe-88a7-a8f8b79f073e
+k	java:S106"+Replace this use of System.out by a logger.(Û»Ë€øÿÿÿÿJ$55dea823-7707-4e6d-985e-6cbaf2be6a21
+w	java:S125"<This block of commented-out lines of code should be removed.(·©â³J$ef9a3d11-6b52-4e6b-b358-fdfcf1945d78
+k	java:S106"+Replace this use of System.out by a logger.(ËªÃªıÿÿÿÿJ$f8e08fca-1bf8-4952-9bf2-1df4e34a009d
+f	java:S106%"+Replace this use of System.out by a logger.(ŠÃ´»J$4c33bb47-6404-42da-9f69-c80cae817ef2
+f	java:S106)"+Replace this use of System.out by a logger.(ìÓ¢ªJ$589d9e6f-0d72-4296-8bcd-13b8d09be30e
+f	java:S106-"+Replace this use of System.out by a logger.(ĞğİóJ$28e0dc65-7508-48ef-92b2-d53bafde19d2
+k	java:S106="+Replace this use of System.out by a logger.(–›—ŸøÿÿÿÿJ$55736756-6382-4d4f-aaba-45614d9b26ce
+k	java:S106>"+Replace this use of System.out by a logger.(î˜Ÿ‚úÿÿÿÿJ$a687252f-c778-4a9a-98d1-e77b0fa2031a
+k	java:S106?"+Replace this use of System.out by a logger.(›ÇšÅûÿÿÿÿJ$1bf5b5fe-f2bb-4bd3-94a6-8a432c06eccb
+k	java:S106@"+Replace this use of System.out by a logger.(‚üïŠÿÿÿÿÿJ$5cf6ce82-7417-431b-880f-bc0a17388edf
+f	java:S106A"+Replace this use of System.out by a logger.(Æ«ŞúJ$5134d51d-3a82-492d-a086-e8d18259cab9
+k	java:S106B"+Replace this use of System.out by a logger.(¡µÅáÿÿÿÿÿJ$ada03a75-632f-4669-a338-93826683300e
+f	java:S106E"+Replace this use of System.out by a logger.(ïÔ×J$fcbad665-9a72-4066-a097-82d6ea087ca6
+k	java:S106G"+Replace this use of System.out by a logger.(ÅÑÀõÿÿÿÿÿJ$bcc95507-4a77-4539-9fe7-813329fa3b65
+f	java:S106I"+Replace this use of System.out by a logger.(Ã“¸ËJ$3806c633-d10e-4b73-b735-1a9b68c21c33
+f	java:S106K"+Replace this use of System.out by a logger.(§éŠJ$1fc434f7-3f44-4b8c-8fe1-1b49dd6d8abe
+k	java:S106M"+Replace this use of System.out by a logger.(ÏÎÀËüÿÿÿÿJ$7ca554a2-8f20-4f7e-83cd-c9b550b0cc69
+k	java:S106k"+Replace this use of System.out by a logger.(½Œ¹áúÿÿÿÿJ$0e1e5442-b140-47c3-aa3f-fd2080a126df
+k	java:S106m"+Replace this use of System.out by a logger.(ğ³œ»øÿÿÿÿJ$bd4756aa-1a0c-41f1-b84d-140956f0c812
+k	java:S106s"+Replace this use of System.out by a logger.(Û»Ë€øÿÿÿÿJ$f2a2a487-43e2-47de-a048-e85766254dd9
+f	java:S106y"+Replace this use of System.out by a logger.(ı„¨˜J$35365762-32ef-416e-9083-e892f9a63661
+k	java:S106z"+Replace this use of System.out by a logger.(½’ğâùÿÿÿÿJ$b91dbb89-f9d3-4606-bc58-93224a7c180b
+k	java:S106}"+Replace this use of System.out by a logger.(ğ³œ»øÿÿÿÿJ$e991f810-bf2f-456a-8686-67156a0bb3e2
+l	java:S106ƒ"+Replace this use of System.out by a logger.(š¦ğ˜ùÿÿÿÿJ$616c973e-30af-483f-a99a-9cbde709a1c8
+g	java:S106‰"+Replace this use of System.out by a logger.(æ¯J$c4146acb-5d79-428d-a8c7-1b63a53050cf
+l	java:S106"+Replace this use of System.out by a logger.(ğ³œ»øÿÿÿÿJ$f91e2ff9-ef26-431c-a53e-6bf79d6244fc
