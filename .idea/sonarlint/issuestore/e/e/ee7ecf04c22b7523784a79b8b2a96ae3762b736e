@@ -1,0 +1,35 @@
+
+l
+java:S1192~"VDefine a constant instead of duplicating this literal "Albaran no encontrado" 3 times.(²ê‡
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù’Æ§
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶êŠÈşÿÿÿÿ
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íıâÀ
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š†œıÿÿÿÿ
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅ—øùÿÿÿÿ
+f	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄíŸÉ
+f	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íıâÀ
+f	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†öó­
+E	java:S106"+Replace this use of System.out by a logger.(œ‚õ¾şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(»ñ†ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Â²ó
+E	java:S106'"+Replace this use of System.out by a logger.(ÈÃÆøÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(Ğ–Úü
+m
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(§²‡ÿÿÿÿÿ
+@	java:S106D"+Replace this use of System.out by a logger.(šğÁß
+@	java:S106E"+Replace this use of System.out by a logger.(‡ø€±
+E	java:S106F"+Replace this use of System.out by a logger.(½Ş¿†üÿÿÿÿ
+@	java:S106G"+Replace this use of System.out by a logger.(«ë’è
+@	java:S106H"+Replace this use of System.out by a logger.(é‘Ş
+E	java:S106K"+Replace this use of System.out by a logger.(ØÿòÁùÿÿÿÿ
+E	java:S106M"+Replace this use of System.out by a logger.(Ä· ıÿÿÿÿ
+?	java:S106O"+Replace this use of System.out by a logger.(ù‚'
+@	java:S106Q"+Replace this use of System.out by a logger.(‹ÁÅ¾
+@	java:S106|"+Replace this use of System.out by a logger.(¹ºä
+@	java:S106~"+Replace this use of System.out by a logger.(²ê‡
+F	java:S106„"+Replace this use of System.out by a logger.(÷†ç€ıÿÿÿÿ
+A	java:S106Š"+Replace this use of System.out by a logger.(Ö÷ÒÈ
+A	java:S106"+Replace this use of System.out by a logger.(²ê‡
+F	java:S106“"+Replace this use of System.out by a logger.(ÅÖ›¡ûÿÿÿÿ
+@	java:S106™"+Replace this use of System.out by a logger.(½ÁÏR
+A	java:S106Ÿ"+Replace this use of System.out by a logger.(²ê‡

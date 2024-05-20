@@ -1,8 +1,6 @@
 package data_framework;
 
-import entidades.Cliente;
-import entidades.Vehiculo;
-import entidades.Pieza;
+import entidades.*;
 
 /***
  * <p>
@@ -37,7 +35,15 @@ public class AlmacenDeDatos {
 
     private static final RepositorioCRUD<Cliente, String> clienteRepository  = new RepositorioCRUD<>(Cliente::getCodigoCliente);
 
-    private static final RepositorioCRUD<Pieza, String> piezaRepository  = new RepositorioCRUD<>(Pieza::getCodigoPieza);
+    private static final RepositorioCRUD<Albaran, String> albaranRepository = new RepositorioCRUD<>(Albaran::getNumeroAlbaran);
+
+    private static final RepositorioCRUD<Factura, String> facturaRepository = new RepositorioCRUD<>(Factura::getCodigoFactura);
+
+    private static final RepositorioCRUD<Pieza, String> piezaRepository = new RepositorioCRUD<>(Pieza::getCodigoDePieza);
+
+    private static final RepositorioCRUD<Proveedor, String> proveedorRepository = new RepositorioCRUD<>(Proveedor::getCodigoProveedor);
+
+    private static final RepositorioCRUD<Usuario, String> usuarioRepository = new RepositorioCRUD<>(Usuario::getCorreoElectronico);
 
 
     /**
@@ -48,12 +54,19 @@ public class AlmacenDeDatos {
         return vehiculoRepository;
     }
 
-
-
     public static RepositorioCRUD<Cliente, String> getClienteRepository() {
         return clienteRepository;
     }
 
+    public static RepositorioCRUD<Albaran, String> getAlbaranRepository() { return albaranRepository;}
 
-    public static RepositorioCRUD<Pieza, String> getPiezaRepository() {return piezaRepository; }
+    public static RepositorioCRUD<Factura, String> getFacturaRepository() { return facturaRepository;}
+
+    public static RepositorioCRUD<Pieza, String> getPiezaRepository() { return piezaRepository;}
+
+    public static RepositorioCRUD<Proveedor, String> getProveedorRepository() { return proveedorRepository;}
+
+    public static RepositorioCRUD<Usuario, String> getUsuarioRepository() { return usuarioRepository;}
+
+
 }

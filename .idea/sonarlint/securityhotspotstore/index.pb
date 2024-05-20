@@ -31,3 +31,13 @@ u
 EGestionTaller-logging_y_uso_de_ficheros/src/logging/LoggerConfig.java,f\6\f63a3684665e042577d24bef181fa617f4c0374d
 u
 EGestionTaller-logging_y_uso_de_ficheros/src/logging/LogFormatter.java,8\f\8f39acf0ad47cfb3acaeb7588efcf71177c7217b
+Å
+QGestionTaller-logging_y_uso_de_ficheros/src/herramientas/HerramientasUsuario.java,f\9\f9219767f9010b00c6fffc5b09ee2a2a6e8b326f
+Ç
+RGestionTaller-logging_y_uso_de_ficheros/src/herramientas/HerramientasVehiculo.java,6\5\659b13d05dec1fe7f6a1c0b72419dfa2f2481cf6
+u
+EGestionTaller-logging_y_uso_de_ficheros/src/entidades/Reparacion.java,2\0\2075e38ccf877fbe74be428100d70dd1889d90f2
+s
+CGestionTaller-logging_y_uso_de_ficheros/src/entidades/Servicio.java,d\5\d50215277bff5698b7452580e9106bef9a02c773
+Å
+QGestionTaller-logging_y_uso_de_ficheros/src/herramientas/HerramientasAlbaran.java,e\e\ee7ecf04c22b7523784a79b8b2a96ae3762b736e

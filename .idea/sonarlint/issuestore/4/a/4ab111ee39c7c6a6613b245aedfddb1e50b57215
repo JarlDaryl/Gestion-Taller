@@ -1,32 +1,76 @@
 
-œ
-java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(„¹Ù8õíÑ©ù1J$40342a8f-297a-4724-82bb-258f9845286a
-˜	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÙ‡Ïÿÿÿÿÿ8öíÑ©ù1J$501aaa96-dddc-44bb-9f13-1cd81c4659ae
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å õ›ıÿÿÿÿ8ùíÑ©ù1J$4246ebca-3cf2-4d62-b299-1d8fed92c67a
-•
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8¬ïÑ©ù1J$a96e12f9-a95c-429a-8ea4-49aeb8fabb41
-„
-java:S1854"ARemove this useless assignment to local variable "directoryPath".(¹¤ô8®ïÑ©ù1J$f2bf0831-6d57-491f-aa8c-988f622abaaf
-u
-java:S1481"2Remove this unused "directoryPath" local variable.(¹¤ô8°ïÑ©ù1J$2c8c9efe-a3cc-4574-ac8f-bacaa8adaf1e
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ùè¢ìúÿÿÿÿ8°ïÑ©ù1J$dc98df6d-955b-4b2d-b228-d6279056b69c
-d	java:S131?""Add a default case to this switch.(ü€Ñ8µïÑ©ù1J$c88b0d3b-5082-40c7-a379-6ea623847d78
-r	java:S106F"+Replace this use of System.out by a logger.(êÜõ‚ùÿÿÿÿ8¶ïÑ©ù1J$cde6d946-e0d0-4a13-b8fc-8adcd49f8985
-m	java:S106G"+Replace this use of System.out by a logger.(€şÃ¹8¶ïÑ©ù1J$1be14917-ba90-4721-a7d1-700d98e81d2f
-r	java:S106H"+Replace this use of System.out by a logger.(œˆçÿÿÿÿÿ8·ïÑ©ù1J$0c64f1f1-386f-48cc-b19a-8210c8e83101
-r	java:S106I"+Replace this use of System.out by a logger.(¨ğ˜øÿÿÿÿ8·ïÑ©ù1J$e2934ad8-62f8-411f-a5fe-2799a84e7cd3
-r	java:S106J"+Replace this use of System.out by a logger.(Çİ¬Ûûÿÿÿÿ8·ïÑ©ù1J$ed5a24f8-59ba-4e7e-ade6-3a2a67074fa7
-m	java:S106K"+Replace this use of System.out by a logger.(¡óƒ¹8¹ïÑ©ù1J$b2984329-26da-49b6-8c09-658c9fc8d64b
-r	java:S106M"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿ8ºïÑ©ù1J$ab336666-fb38-433e-8da9-63acd2b1f4b3
-d	java:S131c""Add a default case to this switch.(ü€Ñ8»ïÑ©ù1J$f13427d3-345a-4596-b96d-0713ee4141f7
-m	java:S106j"+Replace this use of System.out by a logger.(•½…8»ïÑ©ù1J$41a0f980-d8e9-4adb-9f30-28acf1dbfa2f
-r	java:S106k"+Replace this use of System.out by a logger.(“Š°şùÿÿÿÿ8»ïÑ©ù1J$dce7d0da-929e-40ea-a4fc-273f66614f5a
-r	java:S106l"+Replace this use of System.out by a logger.(”£Áùÿÿÿÿ8¼ïÑ©ù1J$0dffbcfd-114c-4c9c-a453-bc05afe99bc2
-m	java:S106m"+Replace this use of System.out by a logger.(Ï´8¼ïÑ©ù1J$7bf8b1b3-e2f4-4f5c-a35c-e0fcb580f14d
-m	java:S106n"+Replace this use of System.out by a logger.(êô»ì8¼ïÑ©ù1J$7c964d65-cdfd-4a1d-b5bb-9de4b4d8e644
-m	java:S106o"+Replace this use of System.out by a logger.(”€¾‹8½ïÑ©ù1J$b503760b-a8a7-4384-8716-1bd7eae2cbc1
-r	java:S106q"+Replace this use of System.out by a logger.(˜§™”ùÿÿÿÿ8½ïÑ©ù1J$52902d88-0f17-442d-9900-dd293e009fc4
-€
-java:S1128"8Remove this unused import 'fileReader.LectorDeArchivos'.(´“¯¡ÿÿÿÿÿ8¾ïÑ©ù1J$e48e03ed-c740-4adb-a81d-3ce0e247a6df
-‰
-java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 98 to 64, Complexity from 18 to 14, Nesting Level from 4 to 2, Number of Variables from 10 to 6.(Çµí‘8¿ïÑ©ù1J$7ec2cbc0-ed3e-493f-9bba-28e0ad24e1c2
+v
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(„¹Ù8Ù±Ï³ù1
+v
+java:S1192I"TDefine a constant instead of duplicating this literal "Cliente modificado:" 4 times.(êÜõ‚ùÿÿÿÿ8÷±Ï³ù1
+d
+java:S1192N"GDefine a constant instead of duplicating this literal "Edad: " 4 times.(¡óƒ¹8ø±Ï³ù1
+k
+java:S1192M"IDefine a constant instead of duplicating this literal "Nombre: " 4 times.(Çİ¬Ûûÿÿÿÿ8²Ï³ù1
+h
+java:S1192K"FDefine a constant instead of duplicating this literal "DNI: " 4 times.(œˆçÿÿÿÿÿ8²Ï³ù1
+
+java:S1192P"kDefine a constant instead of duplicating this literal "El cliente con el id introducido no existe" 4 times.(Ê‹Á÷üÿÿÿÿ8‚²Ï³ù1
+o
+java:S1192L"MDefine a constant instead of duplicating this literal "DirecciÃ³n: " 4 times.(¨ğ˜øÿÿÿÿ8‚²Ï³ù1
+g
+java:S1192J"JDefine a constant instead of duplicating this literal "CÃ³digo: " 4 times.(€şÃ¹8‚²Ï³ù1
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‹îÿÿÿÿÿ8ˆ²Ï³ù1
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éŠ‡°ıÿÿÿÿ8‰²Ï³ù1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å õ›ıÿÿÿÿ8ùíÑ©ù1J$05034b51-c658-40ce-9a95-e7371e668530
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Çµí‘8ä³Ï³ù1
+d
+java:S18546"GRemove this useless assignment to local variable "herramientasAlbaran".(¢® ÷8ñ³Ï³ù1
+b
+java:S18545"ERemove this useless assignment to local variable "herramientasPieza".(§âãã8ó³Ï³ù1
+d
+java:S18544"GRemove this useless assignment to local variable "herramientasUsuario".(Ñ°ãÔ8ô³Ï³ù1
+^
+java:S1854"ARemove this useless assignment to local variable "directoryPath".(¹¤ô8õ³Ï³ù1
+O
+java:S1481"2Remove this unused "directoryPath" local variable.(¹¤ô8‚´Ï³ù1
+]	java:S125"<This block of commented-out lines of code should be removed.(ùè¢ìúÿÿÿÿ8…´Ï³ù1
+U
+java:S14814"8Remove this unused "herramientasUsuario" local variable.(Ñ°ãÔ8´Ï³ù1
+S
+java:S14815"6Remove this unused "herramientasPieza" local variable.(§âãã8–´Ï³ù1
+U
+java:S14816"8Remove this unused "herramientasAlbaran" local variable.(¢® ÷8–´Ï³ù1
+>	java:S131B""Add a default case to this switch.(ü€Ñ8š´Ï³ù1
+L	java:S106I"+Replace this use of System.out by a logger.(êÜõ‚ùÿÿÿÿ8›´Ï³ù1
+G	java:S106J"+Replace this use of System.out by a logger.(€şÃ¹8œ´Ï³ù1
+L	java:S106K"+Replace this use of System.out by a logger.(œˆçÿÿÿÿÿ8¥´Ï³ù1
+L	java:S106L"+Replace this use of System.out by a logger.(¨ğ˜øÿÿÿÿ8¨´Ï³ù1
+L	java:S106M"+Replace this use of System.out by a logger.(Çİ¬Ûûÿÿÿÿ8©´Ï³ù1
+G	java:S106N"+Replace this use of System.out by a logger.(¡óƒ¹8µ´Ï³ù1
+L	java:S106P"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿ8¶´Ï³ù1
+>	java:S131b""Add a default case to this switch.(ü€Ñ8·´Ï³ù1
+]	java:S125i"<This block of commented-out lines of code should be removed.(ã·¢–şÿÿÿÿ8Ï´Ï³ù1
+L	java:S106p"+Replace this use of System.out by a logger.(¦Í•üÿÿÿÿ8Ğ´Ï³ù1
+?	java:S131‚""Add a default case to this switch.(ü€Ñ8Õ´Ï³ù1
+M	java:S106‰"+Replace this use of System.out by a logger.(êÜõ‚ùÿÿÿÿ8Ú´Ï³ù1
+H	java:S106Š"+Replace this use of System.out by a logger.(€şÃ¹8Ú´Ï³ù1
+M	java:S106‹"+Replace this use of System.out by a logger.(œˆçÿÿÿÿÿ8Û´Ï³ù1
+M	java:S106Œ"+Replace this use of System.out by a logger.(¨ğ˜øÿÿÿÿ8Ü´Ï³ù1
+M	java:S106"+Replace this use of System.out by a logger.(Çİ¬Ûûÿÿÿÿ8á´Ï³ù1
+H	java:S106"+Replace this use of System.out by a logger.(¡óƒ¹8á´Ï³ù1
+M	java:S106"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿ8ä´Ï³ù1
+?	java:S131¢""Add a default case to this switch.(ü€Ñ8é´Ï³ù1
+M	java:S106©"+Replace this use of System.out by a logger.(êÜõ‚ùÿÿÿÿ8ë´Ï³ù1
+H	java:S106ª"+Replace this use of System.out by a logger.(€şÃ¹8ì´Ï³ù1
+M	java:S106«"+Replace this use of System.out by a logger.(œˆçÿÿÿÿÿ8ì´Ï³ù1
+M	java:S106¬"+Replace this use of System.out by a logger.(¨ğ˜øÿÿÿÿ8î´Ï³ù1
+M	java:S106­"+Replace this use of System.out by a logger.(Çİ¬Ûûÿÿÿÿ8ï´Ï³ù1
+H	java:S106®"+Replace this use of System.out by a logger.(¡óƒ¹8ğ´Ï³ù1
+M	java:S106°"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿ8ñ´Ï³ù1
+?	java:S131Â""Add a default case to this switch.(ü€Ñ8ó´Ï³ù1
+M	java:S106É"+Replace this use of System.out by a logger.(êÜõ‚ùÿÿÿÿ8ô´Ï³ù1
+H	java:S106Ê"+Replace this use of System.out by a logger.(€şÃ¹8õ´Ï³ù1
+M	java:S106Ë"+Replace this use of System.out by a logger.(œˆçÿÿÿÿÿ8õ´Ï³ù1
+M	java:S106Ì"+Replace this use of System.out by a logger.(¨ğ˜øÿÿÿÿ8ö´Ï³ù1
+M	java:S106Í"+Replace this use of System.out by a logger.(Çİ¬Ûûÿÿÿÿ8÷´Ï³ù1
+H	java:S106Î"+Replace this use of System.out by a logger.(¡óƒ¹8÷´Ï³ù1
+M	java:S106Ğ"+Replace this use of System.out by a logger.(Ê‹Á÷üÿÿÿÿ8ø´Ï³ù1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 187 to 64, Complexity from 38 to 14, Nesting Level from 4 to 2, Number of Variables from 16 to 6.(Çµí‘8ú´Ï³ù1
